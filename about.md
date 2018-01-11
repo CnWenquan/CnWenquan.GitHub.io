@@ -9,7 +9,7 @@ menu: About
 
 ## 温泉
 
-现在是一名程序猿,从事 **PHP WEB** 开发，主要语言 `PHP` `C++` `Java`，熟悉 `Laravel`, `ThinkPHP` 框架，了解`Python`、`Android`的一些基本应用原理和实践
+现在是一名程序猿,从事 **PHP WEB** 开发，主要语言 `PHP` `Java`，熟悉 `Laravel`, `ThinkPHP` 框架，了解`Python`、`Android`的一些基本应用原理和实践
 
 对现代化的 `PHP` 开发比较感兴趣 
 
