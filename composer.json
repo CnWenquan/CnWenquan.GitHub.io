@@ -1,13 +1,13 @@
 {
-  "name": "geekghc.github.io",
-  "description": "jellybean blog",
+  "name": "CnWenquan.github.io",
+  "description": "wenquan blog",
   "main": "",
   "license": "MIT",
   "keywords": [
-    "jellybean",
+    "wenquan",
     "blog"
   ],
-  "homepage": "https://github.com/geekghc/geekghc.github.io",
+  "homepage": "https://github.com/CnWenquan/CnWenquan.GitHub.io",
   "moduleType": [],
   "ignore": [
     "**/.*",

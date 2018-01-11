@@ -1,4 +1,4 @@
-## [Jekyll](http://jekyllcn.com/) 构建的静态博客
+## [Wenquan](http://gitblog.wenquanpage.com/) 构建的静态博客
 
 ## HomePage
 

@@ -1,22 +1,22 @@
-title: jellybean | 葛华春博客
-name: jellybean
-email: ghcsun@gmail.com
-description: 葛华春(jellybean)，在校学生 热爱编程和技术开发 对技术相关都有兴趣，GitHub:https://github.com/GeekGhc。
+title: Wenquan | 温泉博客
+name: Wenquan
+email: 825414435@qq.com
+description: 温泉(Wenquan)，在校学生 热爱编程和技术开发 对技术相关都有兴趣，GitHub:https://github.com/CnWenquan。
 
-skill_keywords: [PHP,Laravel,VueJs,HTML+CSS,Javascript,ThinkPHP,Android,Linux,Nginx,NodeJs,Python,C++,Git,RESTful,Sublime Text,Atom]
-hobby: [编程,打篮球,听音乐,看电影]
+skill_keywords: [PHP,Laravel,HTML+CSS,Javascript,ThinkPHP,Android,Linux,Nginx,Python]
+hobby: [编程,听音乐,看电影]
 
 timezone:    PRC
 encoding: "utf-8"
 
-url: http://jellybook.me
+url: http://gitblog.wenquanpage.com
 baseurl:  "/"
-domain:    jellybook.me
+domain:    gitblog.wenquanpage.com
 permalink:    /articles/:year/:month/:title
 paginate_path: 'blog/page:num'
 paginate:   5
 
-source_code: https://github.com/Geekghc/geekghc.github.io
+source_code: https://github.com/CnWenquan/CnWenquan.GitHub.io
 
 # Build settings
 lsi:         false
@@ -25,8 +25,8 @@ excerpt_separator: "\n\n"
 source:      .
 destination: ./_site
 
-twitter_username: JellyBean
-github_username:  GeekGhc
+twitter_username: Wenquan
+github_username:  Wenquan
 
 # Build settings
 markdown: kramdown
