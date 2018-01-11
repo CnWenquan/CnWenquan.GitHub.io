@@ -64,11 +64,6 @@ navs:
     label: Article
 
   -
-    href: https://kobeman.com
-    label: Community
-    target: _blank
-
-  -
     href: /project
     label: Project
 
