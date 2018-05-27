@@ -1,0 +1,25 @@
+{
+  "name": "CnWenquan.github.io",
+  "description": "wenquan blog",
+  "main": "",
+  "license": "MIT",
+  "keywords": [
+    "wenquan",
+    "blog"
+  ],
+  "homepage": "https://github.com/CnWenquan/CnWenquan.GitHub.io",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "require": {
+    "octicons": "*",
+    "primer-markdown": "*",
+    "primer-css": "~2.1.0",
+    "jquery": "~2.1.4"
+  }
+}
